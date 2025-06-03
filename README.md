@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 I'm Manish, 
 🔭 I’m currently working on my University projects, 
